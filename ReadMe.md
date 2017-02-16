@@ -1,0 +1,1 @@
+Simple Java audio player class to load, queue, and play WAV and MIDI files.
